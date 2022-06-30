@@ -1,4 +1,4 @@
-# Git-GitHub-Tutorial
+# Git-GitHub-Tutorial-PR
 Git&amp;GitHub Tutorial for PR
 
 ## Fork Me!
