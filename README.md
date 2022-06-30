@@ -1,5 +1,5 @@
 # Git-GitHub-Tutorial
-Git&amp;GitHub Tutorial - Fork, PR Tutorial
+Git&amp;GitHub Tutorial for PR
 
 ## Fork Me!
 Fork는 아주 큰 협업 프로젝트에 기여할 수 있는 멋진 방법입니다.
