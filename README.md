@@ -7,7 +7,9 @@ Fork는 아주 큰 협업 프로젝트에 기여할 수 있는 멋진 방법입�
 만약 이 remote repo를 fork했다면, 당신의 계정에 이와 똑같이 생긴 remote repo가 생성되었을 것입니다.
 
 그렇다면 다음 커맨드를 입력하여 당신의 repo를 local repo로 복제해 오세요:
-`git clone [your repo's link]`
+```
+git clone [your repo's link]
+```
 
 ## Remote Me!
 이제 당신이 가지고 있는 local repo는 당신의 remote repo와 연결되어 있을 겁니다.
@@ -17,13 +19,17 @@ Fork는 아주 큰 협업 프로젝트에 기여할 수 있는 멋진 방법입�
 정말 당신이 원본 repo에 기여를 하고 싶다면, 원본 repo에 수정사항을 제안(이것이 PR입니다)할 수 있도록 remote repo에 원본 repo를 추가해야 합니다.
 
 다음과 같이 커맨드를 입력하여 추가할 수 있습니다:
-`git remote add [original remote repo's nickname] [original remote repo's link]`
+```
+git remote add [original remote repo's nickname] [original remote repo's link]
+```
 
 ## Add New Branch!
 여러 수정을 거친 후 그에 대한 PR을 안전하게 보내기 위해서는, PR을 위한 branch가 있어야 합니다.
 
 다음의 커맨드를 입력하여 당신의 local repo에 PR용 branch를 만들어 줍시다:
-`git checkout -b [branch name]`
+```
+git checkout -b [branch name]
+```
 
 ## And.. You Can Edit This Project As You Wish!
 이제 당신은 당신의 local repo가 있는 working directory에서 마음껏 파일을 추가하고, 삭제하고, 수정할 수 있습니다.
